@@ -6,17 +6,17 @@
       "external": false
     },
     {
-      "text": "Altaire",
+      "text": "Project Altaire",
       "url": "https://github.com/andy-piccalilli/hylia",
       "external": true
     },
     {
-      "text": "README.md",
-      "url": "/readme",
+      "text": "Developer",
+      "url": "/developer",
       "external": false
     },
     {
-      "text": "Developer",
+      "text": "Who Am I?",
       "external": true,
       "url": "https://chan030609.github.io/"
     }

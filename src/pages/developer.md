@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Developer
-permalink: /developer
+permalink: /developer/index.html
 socialImage: ""
 ---
 This is a developer site. Welcome!

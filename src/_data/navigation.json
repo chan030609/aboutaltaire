@@ -6,14 +6,19 @@
       "external": false
     },
     {
-      "text": "GitHub",
+      "text": "Altaire",
       "url": "https://github.com/andy-piccalilli/hylia",
       "external": true
     },
     {
-      "text": "Example Contact Page",
+      "text": "Example Page",
       "url": "/contact",
       "external": false
+    },
+    {
+      "text": "Developer",
+      "external": true,
+      "url": "https://chan030609.github.io/"
     }
   ]
 }

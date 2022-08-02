@@ -7,7 +7,7 @@ postsHeading: Developer Updates
 archiveButtonText: See all posts
 socialImage: ""
 ---
-# Your Friendly Neighborhood Intellectual Society
+## Your Friendly Neighborhood Intellectual Society
 
 ![](/images/altaire-sticker.png)
 

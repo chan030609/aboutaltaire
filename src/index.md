@@ -3,7 +3,7 @@ layout: home
 title: "Altaire: Your Friendly Neighborhood Intellectual Society"
 metaTitle: altaire
 metaDesc: Your Friendly Neighborhood Intellectual Society
-postsHeading: Latest posts
+postsHeading: Updates
 archiveButtonText: See all posts
 socialImage: ""
 ---
